@@ -64,7 +64,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/56665</dc:source>
 		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">The novella "Mathilda" was not published during Shelley's lifetime, surviving only in some manuscripts. The first publication retained mistakes in spelling and punctuation made by the author, adding either [sic] or the likely correction in brackets. These bracketed passages have been removed and the corrections applied.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
